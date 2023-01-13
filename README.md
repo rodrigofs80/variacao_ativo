@@ -9,3 +9,5 @@
 # que representa o json de retorno.
 
 # Sobre o layout: Não me preocupei com a "beleza" do app.
+
+# Fiz tbm alguns Unit tests
